@@ -1,0 +1,16 @@
+main: xyz.unix.tpa.App
+name: UnixTPA
+version: 1.2
+commands:
+   unixtpa:
+      description: version and crap
+      usage: /unixtpa
+   tpa:
+      description: its tpa bro
+      usage: /tpa <player name>
+   tpy:
+      description: yed to tpa
+      usage: /tpy
+   tpn:
+      description: no to tpa
+      usage: /tpn
